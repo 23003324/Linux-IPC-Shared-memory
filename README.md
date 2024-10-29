@@ -78,6 +78,9 @@ fprintf(stderr, "failed to delete\n");
 exit(EXIT_FAILURE);
 } exit(EXIT_SUCCESS);
 }
+
+
+
 //shmry2.c
 
 #include<unistd.h> 
